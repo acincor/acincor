@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 | The way of calling me | Name | Where |
 | --- | --- | --- |
 | Github | Acincor | [Touch this Uniform Resource Locator](https://github.com/acincor) |
-| WeChat | mhcategories | Santa-CODU-DUCK-666 **(my wechat number)** |
+| WeChat | mhcategories | acTSmith **(my wechat number)** |
 | QQ | mhcategoriesteam | 3278453823 **(my qq number)** |
 | WeChat Work | Anonymous Coward | [Touch this Uniform Resource Locator](https://work.weixin.qq.com/ca/cawcde817372ab779e) |
-| Phone number | SECRET | 17758917010 **If you do not feel anxious, please don't call me at this hotline because it's noisy or invalid**|
+| Phone number | SECRET | 17758917010 **If you do not feel anxious, please don't call me at this hotline because it's noisy or invalid. If I reset my wechat number, you can use this to search. **|
 | A group of programming developer | MHC | [Touch this Uniform Resource Locator](https://acincor.github.io/z4a) |
 | My WeChat Official Account | AC Programmer | MHCProgram **(my wechat official account's number)** |
