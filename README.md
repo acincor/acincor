@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 **WeChat Work**：
 [Click here](https://work.weixin.qq.com/ca/cawcde817372ab779e)
 
-**Wechat: 17758917010 or Santa-CODU-DUCK-666 (the former is valid for a long time)**
+**Wechat: 17758917010 or acTSmith (the former is valid for a long time)**
 
 **qq: 3278453823**
 
